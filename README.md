@@ -1,6 +1,6 @@
 # Ionic 4 List Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 List Tutorial](https://www.youtube.com/watch?v=y0haF2iOuak).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 List Tutorial](https://www.youtube.com/watch?v=y0haF2iOuak) as well as the blog article [Ionic 4 List Tutorial](https://blog.jamibot.com/ionic-4-list).
 
 [![Ionic 4 List Tutorial](https://img.youtube.com/vi/y0haF2iOuak/maxresdefault.jpg)](https://www.youtube.com/watch?v=y0haF2iOuak)
 
